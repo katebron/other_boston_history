@@ -33,6 +33,23 @@
         "marker-symbol": "star",
         "address": "1 Post Office Square"
        }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -71.069315,
+          42.360397
+        ]
+      },
+      "properties": {
+       "name": "Lewis and Harriet Hayden House",
+       "description": "Leaders in the abolitionist movement",
+        "marker-symbol": "wetland",
+        "address": "66 Phillips Street",
+        "url": "http://www.afroammuseum.org/site6.htm"
+      }
     }
   ]
 }
