@@ -1,6 +1,6 @@
 #Boston Other-History Map 
 
-Modified from <a href="https://travis-ci.org/benbalter/dc-wifi-social">DC WiFi Social</a>
+Modified from <a href="https://github.com/benbalter/dc-wifi-social">DC WiFi Social</a>
 
 <img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
 
