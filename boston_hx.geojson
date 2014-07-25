@@ -50,6 +50,23 @@
         "address": "66 Phillips Street",
         "url": "http://www.afroammuseum.org/site6.htm"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+           -71.067300,
+          42.352384
+        ]
+      },
+      "properties": {
+       "name": "Edgar Allan Poe Square",
+       "description": "Boston home to Edgar Allan Poe",
+        "marker-symbol": "wetland",
+        "address": "Boylston Street and Charles Street South",
+        "url": "http://www.poeboston.org/Poe_Boston_Inc..html"
+      }
     }
   ]
 }
